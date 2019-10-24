@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "keshav.learning.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.jdbcUrl'"
+  },
+  {
+    "name": "keshav.learning.username",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.username'"
+  },
+  {
+    "name": "keshav.learning.password",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.password'"
+  },
+  {
+    "name": "keshav.learning.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.driver-class-name'"
+  },
+  {
+    "name": "keshav.learning.entity.component.scan",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.entity.component.scan'"
+  },
+  {
+    "name": "keshav.learning.repository.component.scan",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.repository.component.scan'"
+  },
+  {
+    "name": "keshav.learning.hikari.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.hikari.jdbcUrl'"
+  },
+  {
+    "name": "keshav.learning.hikari.username",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.hikari.username'"
+  },
+  {
+    "name": "keshav.learning.hikari.password",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.hikari.password'"
+  },
+  {
+    "name": "keshav.learning.hikari.driver-Class-Name",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.hikari.driver-Class-Name'"
+  },
+  {
+    "name": "keshav.learning.maximumPoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.maximumPoolSize'"
+  },
+  {
+    "name": "keshav.learning.minimumIdle",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.minimumIdle'"
+  },
+  {
+    "name": "keshav.learning.minimumIdle",
+    "type": "java.lang.String",
+    "description": "A description for 'keshav.learning.minimumIdle'"
+  }
+]}
